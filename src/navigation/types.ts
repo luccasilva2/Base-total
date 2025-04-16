@@ -4,6 +4,9 @@ export type RootStackParamList = {
     Login: undefined;
     Register: undefined;
     App: undefined;
+    Home: undefined
+    Profile: undefined
+    Settings: undefined
   };
   
   // Declaração global para o useNavigation
